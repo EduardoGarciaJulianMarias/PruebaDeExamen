@@ -10,5 +10,5 @@ package pruebadeexamen;
  * @author eduardo.profesor
  */
 public class Esqueleto {
-    
+    //este es un camio   
 }
